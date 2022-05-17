@@ -1,0 +1,14 @@
+body{
+	background-color: #aaa;
+}
+.sl__slide{
+	width:200px;
+}
+.sl__slide img{
+	width:100%;
+	height:100px;
+}
+.main_slide{
+	max-width:600px;
+	margin:0 auto;
+}
